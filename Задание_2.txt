@@ -1,0 +1,219 @@
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+               <title>"Чесмесский бой". Песнь четвертая, с. 164-166</title>
+            </titleStmt>
+            <respStmt>
+                <persName>Мария Гремякина</persName>
+                <resp>Создание TEI документа, выделение в тексте персоналий/мест</resp>
+            </respStmt>
+         </fileDesc>
+         <profileDesc>     
+             <particDesc>
+                 <listPerson type="historical">
+                     <person xml:id="01">     
+                         <persName>Круз</persName>
+                     </person> 
+                     <person xml:id="02">     
+                         <persName>"Евстафий"</persName>
+                     </person>   
+                     <person xml:id="03">     
+                         <persName>Гассан</persName>
+                     </person>
+                     <person xml:id="04">
+                         <persName>Плещеев</persName>
+                     </person>
+                     <person xml:id="05">
+                         <persName>Орлов</persName>
+                     </person>
+                     <person xml:id="06">
+                         <persName>Феодор</persName>
+                     </person>
+                     <person xml:id="07">
+                         <persName>Алексей</persName>
+                     </person>
+                 </listPerson>
+                 <listPerson type="mythological">   
+                     <person xml:id="08">     
+                         <persName>муза</persName>
+                     </person>
+                     <person xml:id="09">
+                         <persName>бог, боже</persName>
+                     </person>
+                     <person xml:id="10">
+                         <persName>Минерва, богиня</persName>
+                     </person>
+                     <person xml:id="11">
+                         <persName>Нептун</persName>
+                     </person>
+                     <person xml:id="12">
+                         <persName>Орест</persName>
+                     </person>
+                     <person xml:id="13">
+                         <persName>Пилад</persName>
+                     </person>
+                 </listPerson>
+                 <listPerson type="ethnic">   
+                     <person xml:id="14">     
+                         <persName>турок, турки</persName>
+                     </person>
+                     <person xml:id="15">
+                         <persName>россияне, россы</persName>
+                     </person>
+                     <person xml:id="16">
+                         <persName>срацины</persName>
+                     </person>
+                 </listPerson>
+                 <listPerson type="figurative">   
+                     <person xml:id="17">     
+                         <persName>брат, братья</persName>
+                     </person>
+                     <person xml:id="18">
+                         <persName>герой</persName>
+                     </person>
+                     <person xml:id="19">
+                         <persName>вестник</persName>
+                     <person xml:id="20">     
+                         <persName>варвар, варвары</persName>
+                     </person>
+                     <person xml:id="21">
+                         <persName>друг, други</persName>
+                     </person>
+                     <person xml:id="22">     
+                         <persName>отец</persName>
+                     </person>
+                     <person xml:id="23">
+                         <persName>воины</persName>
+                     </person>
+                 </listPerson>
+              </particDesc>
+          </profilеDesc>
+    </teiHeader>
+    <text>
+		Тут огнь противу нас, там сабли, там пучина:
+		Дороги к жизни нет, видна везде кончина;
+		Повергнуться в валы, во пламени ль сгореть,
+		Равно везде, равно погибнуть, умереть.
+		Смерть мрачны двери нам со всех сторон отверзла;
+		Среди огня у нас на время кровь замерзла;
+		Не море, не огонь, не буря нас страшит,
+		Но то, что случай злой победу не решит,
+		Что в первый раз бежать от <person xml:id="14"><persName>турка</persName></person> принужденны.
+		Непобедимые пожаром побежденны!
+		В пучине от <person xml:id="14"><persName>него</persName></person> спасенья <person xml:id="15"><persName>россам</persName></person> нет,
+		Дыханье тушит огнь, от дыму меркнет свет,
+		Зардевшись от огня, над нами твердь трясется,
+		Пожар, как быстрая вода, в корабль лиется;
+		Спасенье в ужасе осталось нам одно,
+		Спасенье страшное: морской пучины дно!
+		Твой <person xml:id="17"><persName>брат</persName></person> в ладью опущен. Прерви ту повесть, <person xml:id="08"><persName>муза</persName></person>;
+		Представь на воздухе, в огне и в понте <person xml:id="01"><persName>Круза</persName></person>;
+		Остался в море <person xml:id="01"><persName>он</persName></person> <person xml:id="02"><persName>«Евстафия»</persName></person> спасать,
+		Перуны ко врагам и молнии бросать.
+		Уже <person xml:id="15"><persName>россияне</persName></person> победу вострубили,
+		Бегущих с кораблей они <person xml:id="16"><persName>срацин</persName></person> рубили:
+		<person xml:id="03"><persName>Гассан</persName></person> в сражении две язвы получил,
+		Трепещущ, с корабля в ладью <person xml:id="03"><persName>Гассан</persName></person> сскочил;
+		<person xml:id="03"><persName>Его</persName></person> в объятие отчаянье приемлет,
+		И весь турецкий флот победе нашей внемлет;
+		Сняв якори, от нас, как враны, прочь летят,
+		Людей, ни корабля спасати не хотят.
+		Зажженна мачта вдруг поверглась от злодеев
+		И наш корабль зажгла! <person xml:id="01"><persName>Круз</persName></person> храбрый и <person xml:id="04"><persName>Плещеев</persName></person>
+		Ревущим пламенем на воздух взнесены,
+		Но божьим промыслом от смерти спасены:
+		Низвержены к волнам, в пучине с смертью бьются
+		И <person xml:id="14"><persName>туркам</persName></person> отомщать безвредны остаются.
+		С сей вестью радостной меня твой <person xml:id="17"><persName>брат</persName></person> прислал,
+		И радости такой весь флот наш соплескал...»
+
+		Тогда, вообразив событность толь чудесну,
+		<person xml:id="18"><persName>Герой</persName></person> возвел глаза на высоту небесну,
+		<person xml:id="18"><persName>Он</persName></person> <person xml:id="09"><persName>бога</persName></person>, мнилося, во славе полной зрит;
+		«О <person xml:id="09"><persName>боже</persName></person>! — в радостном восторге говорит, —
+		Прости мне прежнюю души моей тревогу;
+		Мы все живем во тьме, но всё известно <person xml:id="09"><persName>богу</persName></person>;
+		Исчислены давно дни наши у тебя,
+		Мы должны всё сносить, твой промысл возлюбя...»
+		Вещал — и более героем <person xml:id="18"><persName>он</persName></person> явился;
+		Ток слезный отерев, к стоящим обратился.
+		Сокровища свои <person xml:id="18"><persName>он</persName></person> <person xml:id="19"><persName>вестнику</persName></person> вручил,
+		Промолвив: «От тебя я больше получил:
+		<person xml:id="19"><persName>Ты</persName></person> весть приятную, мне весть принес о <person xml:id="17"><persName>брате</persName></person>,
+		Цены той жизни нет, как не было б и трате».
+		При сладкой радости его внимают стон,
+		Что перстня у себя не обретает он.
+		Лице <person xml:id="10"><persName>Минервы</persName></person> в нем изображенно было,
+		Которо храбрые сердца в войне живило.
+		Но тщетно сей урон, <person xml:id="05"><persName>Орлов</persName></person>, тебя горчит:
+		Сим перстнем он моря <person xml:id="10"><persName>богине</persName></person> обручит,
+		Ты сей дражайший знак <person xml:id="11"><persName>Нептуну</persName></person> в дар оставил,
+		Пред кем отечество и сам себя прославил.
+
+		На <person xml:id="20"><persName>варваров</persName></person> <person xml:id="18"><persName>герой</persName></person> вдали спокойно зрит,
+		В смятении к <placeName>Чесме</placeName> турецкий флот бежит;
+		Дрожаща робость им и страх и стыд внушает,
+		Колеблет мачтами и парусы мешает,
+		Спираются в волнах друг с другом корабли,
+		Колеблются в водах, касаются земли.
+		Как стадо, в коем страх вран хищный производит,
+		В дубровах кроется, так флот в залив уходит.
+		«Хотя во глубине морской себя сокрой,
+		Достигну <person xml:id="18"><persName>я</persName></person> тебя!» — к <person xml:id="16"><persName>срацинам</persName></person> рек <person xml:id="18"><persName>герой</persName></person>.
+		Слова его брега и волны повторили
+		И вящий страх в сердца турецкие вперили.
+		<person xml:id="05"><persName>Орлов</persName></person>! от рук твоих сей <person xml:id="20"><persName>варвар</persName></person> не уйдет;
+		Оставь его на час, тебя <person xml:id="06"><persName>Феодор</persName></person> ждет.
+
+		Стремится к <person xml:id="17"><persName>брату</persName></person> <person xml:id="18"><persName>он</persName></person> как быстрыми крилами
+		На малой ладии меж грозными валами;
+		Смиряется, его увидя, бурный понт,
+		И расчищается туманный горизонт;
+		В восторгах <person xml:id="07"><persName>Алексей</persName></person> от радости трепещет,
+		<person xml:id="07"><persName>Он</persName></person> взоры быстрые в пространно море мещет;
+		Очами ищет <person xml:id="07"><persName>он</persName></person> в нем ботика сего,
+		Где <person xml:id="17"><persName>брата</persName></person> думает увидеть своего:
+		Увидел! — раздались в волнах веселий звуки;
+		Друг к другу издали они простерли руки
+		И, будто по волнам бежать они хотят,
+		Друг к другу с током слез в объятия летят.
+		Их радость извлекла приятное стенанье,
+		Сомкнулись их уста и пребыли в молчанье.
+		Растрогались у всех сим зрелищем сердца,
+		Тот <person xml:id="17"><persName>брата</persName></person> любит в них, тот <person xml:id="21"><persName>друга</persName></person>, тот <person xml:id="22"><persName>отца</persName></person>.
+		Восчувствовали все в минуту предлежащу
+		И грусть прошедшую, и радость настоящу;
+		Не горький ток из глаз, но сладостный течет,
+		Их души, кажется, к двум <person xml:id="17"><persName>братьям</persName></person> в грудь влечет.
+		Так небом некогда терзаемый и адом,
+		<person xml:id="12"><persName>Орест</persName></person> увиделся с возлюбленным <person xml:id="13"><persName>Пиладом</persName></person>;
+		Колико прежде он ни злополучен был,
+		В объятьях дружеских печаль свою забыл.
+
+		При сем свидании два <person xml:id="17"><persName>брата</persName></person> получали
+		За скорбью радости, за радостью печали.
+		Разнесшийся тогда по океану дым
+		Плачевно зрелище в волнах представил им:
+		Взирая смутными на бурный понт глазами,
+		На следствия войны взглянули со слезами;
+		В кровавых там струях вращаются тела,
+		Которы, поглотив, пучина отдала;
+		К судам их приплыли безгласны, бледны, мертвы,
+		Как будто требуют от них за подвиг жертвы.
+		На бедствие сие <person xml:id="06"><persName>Феодор</persName></person> с плачем зрит
+		И, <person xml:id="17"><persName>брата</persName></person> своего объемля, говорит:
+		«Се <persName>воины</persName>, струи пиющие кровавы,
+		Участники моей и нашей общей славы!
+		Без оных, может быть, ты <person xml:id="17"><persName>брата</persName></person> б не видал
+		И, как о них теперь, о мне бы возрыдал.
+		Об вас <placeName>Россия</placeName> вся, о <person xml:id="21"><persName>други</persName></person>! пожалеет,
+		И наша кровь за вас отмстить не укоснеет.
+		Когда ж вам рок судил отечества не зреть,
+		Коль славно за него толь храбро умереть!
+		Се наших <person xml:id="23"><persName>воинов</persName></person> тела неустрашимых,
+		Лишенных живота, но в нем непобедимых!
+		Се кровь российскую приносит к нам волна!
+	</text>
+</TEI>
+
